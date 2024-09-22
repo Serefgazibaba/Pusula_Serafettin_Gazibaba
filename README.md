@@ -21,14 +21,14 @@ Technologies Used
 # How to Run the Project
 
 Clone the repository:
-git clone (https://github.com/Serefgazibaba/Pusula_Serafettin_Gazibaba).git
+git clone (https://github.com/Serefgazibaba/Pusula_Serafettin_Gazibaba).git --
 cd Pusula_Serafettin_Gazibaba
 
 Install the required dependencies:
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
+pip install pandas,
+pip install numpy,
+pip install matplotlib,
+pip install seaborn,
 pip install openpyxl
 
 Run the Jupyter Notebook to see the EDA and preprocessing steps:
